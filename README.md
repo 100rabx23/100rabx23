@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabx23&label=Profile%20views&color=0e75b6&style=flat" alt="100rabx23" /> </p>
 
-<p align="left"> <a href="https://twitter.com/100rab_x" target="blank"><img src="https://img.shields.io/twitter/follow/100rab_x?logo=twitter&style=for-the-badge" alt="100rab_x" /></a> </p>
+<p align="left"> <a href="https://twitter.com/saurabhx2004" target="blank"><img src="https://img.shields.io/twitter/follow/saurabhx2004?logo=twitter&style=for-the-badge" alt="saurabhx2004" /></a> </p>
 
 - 🔭 I’m currently working on **DriveLic an android app**
 
@@ -12,13 +12,13 @@
 - 💬 Ask me about **Android Apps**
 
 - 📫 How to reach me **saurabhx2004@gmail.com**
-<p3>Connect with me:- </p3>
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/g.dev/saurabhx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="g.dev/saurabh23" height="30" width="40" /></a>
-<a href="https://twitter.com/100rab_x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="100rab_x" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saurabh singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh singh" height="30" width="40" /></a>
-<a href="https://fb.com/saurabh singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saurabh singh" height="30" width="40" /></a>
-<a href="https://instagram.com/100rab_x_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="100rab_x_" height="30" width="40" /></a>
+<a href="https://dev.to/https://developers.google.com/profile/u/saurabhx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://developers.google.com/profile/u/saurabhx" height="30" width="40" /></a>
+<a href="https://twitter.com/saurabhx2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saurabhx2004" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/saurabh-singh-722246230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saurabh-singh-722246230" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/100rab_x_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/100rab_x_/" height="30" width="40" /></a>
 <a href="https://discord.gg/fBN8TCBZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fBN8TCBZ" height="30" width="40" /></a>
 </p>
 
