@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Saurabh Singh</h1>
 <h3 align="center">A passionate  from India</h3>
-
-
+<canvas height="100" width="200">
+<center>
 <a href="https://ibb.co/XWN8mzw"><img src="https://i.ibb.co/tHkXybd/pexels-realtoughcandycom-11035468.jpg" alt="pexels-realtoughcandycom-11035468" border="0"></a>
-
+</center>
+</canvas>
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Explore%20myGithub-green)](https://github.com/100rabx23)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabx23&label=Profile%20views&color=0e75b6&style=flat" alt="100rabx23" /> </p>
