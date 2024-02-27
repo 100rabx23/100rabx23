@@ -6,7 +6,7 @@
   <img src="https://ibb.co/XWN8mzw" alt="Androx">
 </p>
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Explore%20ABHAR-green)](https://github.com/100rabx23)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Explore%20myGithub-green)](https://github.com/100rabx23)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabx23&label=Profile%20views&color=0e75b6&style=flat" alt="100rabx23" /> </p>
 
