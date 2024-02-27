@@ -2,12 +2,7 @@
 <h3 align="center">A passionate  from India</h3>
 
 
-<p><img src="https://ibb.co/XWN8mzw" alt="Androx"></p>
-## AI-BASED HOME AUTOMATION ROBO
-
-<p align="center">
-  <img src="https://i.ibb.co/GkBKBd1/home-automation-robo.jpg" alt="AI-Based Home Automation Robo">
-</p>
+<a href="https://ibb.co/XWN8mzw"><img src="https://i.ibb.co/tHkXybd/pexels-realtoughcandycom-11035468.jpg" alt="pexels-realtoughcandycom-11035468" border="0"></a>
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Explore%20myGithub-green)](https://github.com/100rabx23)
 
