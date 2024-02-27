@@ -3,6 +3,11 @@
 
 
 <p><img src="https://ibb.co/XWN8mzw" alt="Androx"></p>
+## AI-BASED HOME AUTOMATION ROBO
+
+<p align="center">
+  <img src="https://i.ibb.co/GkBKBd1/home-automation-robo.jpg" alt="AI-Based Home Automation Robo">
+</p>
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Explore%20myGithub-green)](https://github.com/100rabx23)
 
