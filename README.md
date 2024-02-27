@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://ibb.co/XWN8mzw/android.jpg" alt="Androx">
+  <img src="https://ibb.co/XWN8mzw" alt="Androx">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabx23&label=Profile%20views&color=0e75b6&style=flat" alt="100rabx23" /> </p>
