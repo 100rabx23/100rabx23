@@ -4,6 +4,13 @@
       width: 200;
     }
   </style>
+
+  drthrth
+  erdg
+  b
+  drthetrh
+  rth
+  bdtrgb
 <div align="right">
   
 ![giphy](https://github.com/100rabx23/100rabx23/assets/115261525/fc562466-0677-4c5a-abce-fa4895870860)
