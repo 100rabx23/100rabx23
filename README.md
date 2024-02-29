@@ -4,13 +4,13 @@
   
 ![giphy](https://github.com/100rabx23/100rabx23/assets/115261525/4cbc41ba-3ce6-400d-a062-17d68ef18d97)
 
-
+<div aling="right">
 
   
 ![giphy](https://github.com/100rabx23/100rabx23/assets/115261525/fc562466-0677-4c5a-abce-fa4895870860)
 
 </div>
-
+</div>
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Explore%20myGithub-green)](https://github.com/100rabx23)
 
