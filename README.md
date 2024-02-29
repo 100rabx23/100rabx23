@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurabh Singh</h1>
-<div>
+<div align="right">
+  
 ![giphy](https://github.com/100rabx23/100rabx23/assets/115261525/fc562466-0677-4c5a-abce-fa4895870860)
 </div>
 
