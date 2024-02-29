@@ -11,6 +11,14 @@
 
 </div>
 
+<div align="left">
+  
+  <img src="https://raw.githubusercontent.com/100rabx23/100rabx23/main/assets/115261525/4cbc41ba-3ce6-400d-a062-17d68ef18d97.gif" alt="Your GitHub GIF" width="150" height="100"/>
+</div>
+
+<div align="right">
+  <img src="https://raw.githubusercontent.com/100rabx23/100rabx23/main/assets/115261525/fc562466-0677-4c5a-abce-fa4895870860.gif" alt="Your GitHub GIF" width="150" height="100"/>
+</div>
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Explore%20myGithub-green)](https://github.com/100rabx23)
 
