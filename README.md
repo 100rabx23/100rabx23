@@ -1,16 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh Singh</h1>
-<style>
-    div{
-      width: 200;
-    }
-  </style>
-
-  drthrth
-  erdg
-  b
-  drthetrh
-  rth
-  bdtrgb
+<iframe src="https://giphy.com/embed/3oKIPAfzX3P5GRswDu" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loosekeys-happy-3oKIPAfzX3P5GRswDu">via GIPHY</a></p>
 <div align="right">
   
 ![giphy](https://github.com/100rabx23/100rabx23/assets/115261525/fc562466-0677-4c5a-abce-fa4895870860)
