@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saurabh Singh</h1>
 
-![giphy](https://github.com/100rabx23/100rabx23/assets/115261525/aeefee1f-9b53-46da-a23e-768a85abfb72)
+<div align="center">
+  <img src="https://media.giphy.com/media/your-giphy-id/giphy.gif" alt="Your Giphy GIF" width="200"/>
+</div>
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Explore%20myGithub-green)](https://github.com/100rabx23)
 
