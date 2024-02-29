@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurabh Singh</h1>
 
-gn="center">A passionate  from India</h3>
 
-<h3 ali![giphy](https://github.com/100rabx23/100rabx23/assets/115261525/05242acd-06f7-4add-8bb6-5a4a2e0bff65)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Explore%20myGithub-green)](https://github.com/100rabx23)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabx23&label=Profile%20views&color=0e75b6&style=flat" alt="100rabx23" /> </p>
