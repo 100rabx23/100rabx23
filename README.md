@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **ASP.NET Framework**
+- 🌱 I’m currently learning **ASP.NET Framework** 
 
 - 💬 Ask me about **Android Apps**
 
