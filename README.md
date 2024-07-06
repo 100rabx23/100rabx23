@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/saurabhx2004" target="blank"><img src="https://img.shields.io/twitter/follow/saurabhx2004?logo=twitter&style=for-the-badge" alt="saurabhx2004" /></a> </p>
 
-- 🔭 I’m currently working on ****
+- 🔭 I’m currently working on IoT Project
 
-- 🌱 I’m currently learning **ASP.NET Framework**  
+- 🌱 I’m currently learning **IoT and AI Robo**  
 
 - 💬 Ask me about **Android Apps** 
 
