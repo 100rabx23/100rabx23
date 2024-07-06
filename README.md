@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on IoT Project
 
-- 🌱 I’m currently learning **IoT and AI Robo**  
+- 🌱 I’m currently learning **AI & Robotics**  
 
 - 💬 Ask me about **Android Apps** 
 
