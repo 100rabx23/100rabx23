@@ -45,5 +45,24 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=100rabx23&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 120%; display: inline-block;" />
 </div>
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<h2 align="center">⚡ Open Source Programs & Achievements 🎖️</h2>
+<div align="center" style="max-width: 600px; margin: auto;">
+<h3 style="text-align: left; font-size: 16px;">
+🥇 Student of the Year 2023-24 | 📈 Lead Developer @ GDSC | 🚀 Hackathon Participant | 💻 IoT & AI Projects
+</h3>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<img src="https://example.com/badge1.png" width="90px" height="90px" />
+<img src="https://example.com/badge2.png" width="90px" height="90px" />
+<img src="https://example.com/badge3.png" width="90px" height="90px" />
+</div>
+</div>
+
+[![An image of @saurabh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saurabh)](https://holopin.io/@saurabh)
+
+<div align="center"> 
+<h1> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=Keep+Learning+and+Exploring!;Let's+code+together!" alt="Typing SVG"/> 
+</h1>
+</div>
