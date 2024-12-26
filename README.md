@@ -30,7 +30,7 @@
 <table align="center">
 <tr>
 <td><strong>Programming Languages</strong></td>
-<td><img height=40 src="https://skillicons.dev/icons?i=java,cpp,python,csharp&theme=dark"></td>
+<td><img height=40 src="https://skillicons.dev/icons?i=java,cpp,python,csharp,sql&theme=dark"></td>
 </tr>
 
 <tr>
@@ -40,7 +40,7 @@
 
 <tr>
 <td><strong>Developer Tools</strong></td>
-<td><img height=40 src="https://skillicons.dev/icons?i=github,vscode,androidstudio,photoshop&theme=dark"></td>
+<td><img height=40 src="https://skillicons.dev/icons?i=github,vscode,androidstudio,photoshop,firebase&theme=dark"></td>
 </tr>
 </table>
 
