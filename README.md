@@ -1,7 +1,6 @@
-.                                          .  
 
 <h1 align="center">Hi 👋, I'm Saurabh Singh </h1>    
-    
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />  
 
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Explore%20myGithub-green)](https://github.com/100rabx23)
