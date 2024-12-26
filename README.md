@@ -8,6 +8,7 @@
 <a href="https://www.linkedin.com/in/saurabh-singh-722246230/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" /></a>
 <a href="mailto:saurabhx2004@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" height="40" width="50"/></a>
 <a href="https://100rabx23.github.io/Portfolio/" target="_blank"><img align="center" src="https://img.icons8.com/ios/50/000000/domain.png" alt="Portfolio" height="40" width="50"/></a>
+<a href="https://www.instagram.com/100rabx_" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="insta" height="40" width="50"/></a>     
 </p>
   </div>
 <h4 align="center">📩 Get in touch: <a href="mailto:saurabhx2004@gmail.com">saurabhx2004@gmail.com</a> | 📱 Phone: +91 8591033839</h4>
