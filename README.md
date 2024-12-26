@@ -5,17 +5,17 @@
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Explore%20myGithub-green)](https://github.com/100rabx23)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabx23&label=Profile%20views&color=0e75b6&style=flat" alt="100rabx23" /> </p>
+<p align="center">
+    Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Feel free to reach out to me on the following platforms: <br> <br>
+<a href="https://www.linkedin.com/in/saurabh-singh-722246230/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" /></a>
+<a href="mailto:saurabhx2004@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" height="40" width="50"/></a>
+<a href="https://100rabx23.github.io/Portfolio/" target="_blank"><img align="center" src="https://img.icons8.com/ios/50/000000/domain.png" alt="Portfolio" height="40" width="50"/></a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/saurabhx2004" target="blank"><img src="https://img.shields.io/twitter/follow/saurabhx2004?logo=twitter&style=for-the-badge" alt="saurabhx2004" /></a> </p>
+<h4 align="center">📩 Get in touch: <a href="mailto:saurabhx2004@gmail.com">saurabhx2004@gmail.com</a> | 📱 Phone: +91 8591033839</h4>
+<p align="center"> <img width="200px" src="https://komarev.com/ghpvc/?username=100rabx23&&style=for-the-badge" /> </p>
 
-- 🔭 I’m currently working on IoT Project
-
-- 🌱 I’m currently learning **AI & Robotics**  
-
-- 💬 Ask me about **Android Apps** 
-
-- 📫 How to reach me **saurabhx2004@gmail.com**
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
