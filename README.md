@@ -30,12 +30,12 @@
 <table align="center">
 <tr>
 <td><strong>Programming Languages</strong></td>
-<td><img height=40 src="https://skillicons.dev/icons?i=java,cpp,python,csharp,sql&theme=dark"></td>
+<td><img height=40 src="https://skillicons.dev/icons?i=java,cpp,python,dart&theme=dark"></td>
 </tr>
 
 <tr>
 <td><strong>Frontend Development</strong></td>
-<td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,dart,flutter" ></td>
+<td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,flutter" ></td>
 </tr>
 
 <tr>
