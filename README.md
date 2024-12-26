@@ -30,17 +30,20 @@
 <table align="center">
 <tr>
 <td><strong>Programming Languages</strong></td>
-<td><img height=40 src="https://skillicons.dev/icons?i=java,cpp,python,dart&theme=dark"></td>
+<td><img height=40 src="https://skillicons.dev/icons?i=java,cpp,python,dart,cs&theme=dark"></td>
 </tr>
 
 <tr>
 <td><strong>Frontend Development</strong></td>
 <td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,flutter" ></td>
 </tr>
-
+<tr>
+<td><strong>Framework</strong></td>
+<td><img height=40 src="https://skillicons.dev/icons?i=dotnet,nodejs" ></td>
+</tr>
 <tr>
 <td><strong>Developer Tools</strong></td>
-<td><img height=40 src="https://skillicons.dev/icons?i=github,vscode,androidstudio,photoshop,firebase&theme=dark"></td>
+<td><img height=40 src="https://skillicons.dev/icons?i=github,vscode,androidstudio,photoshop,firebase,blender&theme=dark"></td>
 </tr>
 </table>
 
