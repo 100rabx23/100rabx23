@@ -42,6 +42,11 @@
 <td><strong>Developer Tools</strong></td>
 <td><img height=40 src="https://skillicons.dev/icons?i=github,vscode,androidstudio,photoshop,firebase,blender&theme=dark"></td>
 </tr>
+
+<tr>
+<td><strong>Operating System</strong></td>
+<td><img height=40 src="https://skillicons.dev/icons?i=kali,linux,raspberrypi,windows,ubuntu&theme=dark"></td>
+</tr>
 </table>
 
 
