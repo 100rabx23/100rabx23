@@ -5,13 +5,13 @@
 <p align="center">
     <h3> Hello, coder!  Welcome to my GitHub profile! Feel free to reach out to me on the following platforms: 📲 </h3> <br> <br>
   <div align="center"> 
-<a href="https://www.linkedin.com/in/saurabh-singh-722246230/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" /></a>
-<a href="mailto:saurabhx2004@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Email" height="40" width="50"/></a>
-<a href="https://100rabx23.github.io/Portfolio/" target="_blank"><img align="center" src="https://img.icons8.com/ios/50/000000/domain.png" alt="Portfolio" height="40" width="50"/></a>
-<a href="https://www.instagram.com/100rabx_" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=ZRiAFreol5mE&format=png&color=000000" alt="insta" height="40" width="50"/></a>  
-<a href="https://twitter.com/saurabhx2004" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=6Fsj3rv2DCmG&format=png&color=000000" alt="Portfolio" height="40" width="50"/></a>
+<a href="https://www.linkedin.com/in/saurabh-singh-722246230/" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" height="40" width="50" /></a>
+<a href="mailto:saurabhx2004@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="Email" height="40" width="50"/></a>
+<a href="https://100rabx23.github.io/Portfolio/" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=63807&format=png&color=000000" alt="Portfolio" height="40" width="50"/></a>
+<a href="https://www.instagram.com/100rabx_" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=BrU2BBoRXiWq&format=png&color=000000" alt="insta" height="40" width="50"/></a>  
+<a href="https://twitter.com/saurabhx2004" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" alt="x" height="40" width="50"/></a>
 
-<a href="https://discord.gg/fBN8TCBZ" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=D2NqKl85S8Ye&format=png&color=000000" alt="Portfolio" height="40" width="50"/></a>
+<a href="https://discord.gg/fBN8TCBZ" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=2mIgusGquJFz&format=png&color=000000" alt="Discord" height="40" width="50"/></a>
 
 </p>
   </div>
