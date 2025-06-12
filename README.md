@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Saurabh Singh </h1>
+ <h1 align="center">Hi 👋, I'm Saurabh Singh! </h1>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />  
 <p align="center">
     <h3> Hello, coder!  Welcome to my GitHub profile! Feel free to reach out to me on the following platforms: 📲 </h3> <br> <br>
@@ -68,7 +68,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=100rabx23&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 120%; display: inline-block;" />
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
+<div></div>
 
 
 <div align="center"> 
