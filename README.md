@@ -1,5 +1,5 @@
 
- <h1 align="center">Hi 👋, I'm Saurabh Singh!! </h1>
+ <h1 align="center">Hi 👋, I'm Saurabh Singh </h1>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />  
 <p align="center">
     <h3> Hello, coder!  Welcome to my GitHub profile! Feel free to reach out to me on the following platforms: 📲 </h3> <br> <br>
