@@ -1,83 +1,78 @@
-
- <h1 align="center">Hi 👋, I'm Saurabh Singh!   </h1>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />  
-<p align="center">
-
-
-
-
-    <h3> Hello, coder!  Welcome to my GitHub profile! Feel free to reach out to me on the following platforms: 📲 </h3> <br> <br>
-  <div align="center"> 
-<a href="https://www.linkedin.com/in/saurabh-singh-722246230/" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" height="40" width="50" /></a>
-<a href="mailto:saurabhx2004@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="Email" height="40" width="50"/></a>
-<a href="https://100rabx23.github.io/Portfolio/" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=63807&format=png&color=000000" alt="Portfolio" height="40" width="50"/></a>
-<a href="https://www.instagram.com/100rabx_" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=BrU2BBoRXiWq&format=png&color=000000" alt="insta" height="40" width="50"/></a>  
-<a href="https://twitter.com/saurabhx2004" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" alt="x" height="40" width="50"/></a>
-
-<a href="https://discord.gg/fBN8TCBZ" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=2mIgusGquJFz&format=png&color=000000" alt="Discord" height="40" width="50"/></a>
-
-</p>
-  </div>
-<h4 align="center">📩 Get in touch: <a href="mailto:saurabhx2004@gmail.com">saurabhx2004@gmail.com</a> | 📱 Phone: +91 8591033839</h4>
-<p align="center"> <img width="200px" src="https://komarev.com/ghpvc/?username=100rabx23&&style=for-the-badge" /> </p>
-
-
-
-
-
-<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="38"> Languages, Tools and Technologies </h2>
-
-<table align="center">
-<tr>
-<td><strong>Programming Languages</strong></td>
-<td><img height=40 src="https://skillicons.dev/icons?i=java,cpp,python,dart,cs&theme=dark"></td>
-</tr>
-
-<tr>
-<td><strong>Frontend Development</strong></td>
-<td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,flutter" ></td>
-</tr>
-<tr>
-<td><strong>Framework</strong></td>
-<td><img height=40 src="https://skillicons.dev/icons?i=dotnet,nodejs" ></td>
-</tr>
-<tr>
-<td><strong>Developer Tools</strong></td>
-<td><img height=40 src="https://skillicons.dev/icons?i=github,vscode,androidstudio,photoshop,firebase,blender&theme=dark"></td>
-</tr>
-
-<tr>
-<td><strong>Operating System</strong></td>
-<td><img height=40 src="https://skillicons.dev/icons?i=kali,linux,raspberrypi,windows,ubuntu&theme=dark"></td>
-</tr>
-</table>
-
-
-<!--
-<h2 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> GitHub Stats </h2>
-<div align="center" width="50%">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=100rabx23&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Saurabh's GitHub Streak" /></p>
--->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=120&section=header&text=SAURABH%20SINGH&fontSize=60&fontColor=E21717&animation=twinkling" />
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E21717&center=true&vCenter=true&width=500&lines=CORE+SYSTEM+ENGINEER;FULL-STACK+DEVELOPER;CYBER+SECURITY+ENTHUSIAST;CROSS-PLATFORM+ARCHITECT" alt="Typing SVG" />
+  </p>
 </div>
+
+---
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=100rabx23&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=100rabx23&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=100rabx23&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=100rabx23&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=100rabx23&theme=github_dark" />
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://gifdb.com/images/high/spiderman-video-game-pfco8ogqqqgo47sv.gif" width="100%" style="border-radius:10px; border: 1px solid #333;" />
+      </td>
+      <td width="50%" align="left">
+        <h3> 🛰️ System Overview </h3>
+        <ul>
+          <li><strong>Current Phase:</strong> Engineering Solutions</li>
+          <li><strong>Deployment:</strong> Mumbai, India</li>
+          <li><strong>Status:</strong> Available for Collaboration</li>
+          <li><strong>Primary Focus:</strong> Scalable Web & App Architectures</li>
+        </ul>
+        <br />
+        <p>
+          <a href="https://www.linkedin.com/in/saurabh-singh-722246230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+          <a href="mailto:saurabhx2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+          <a href="https://100rabx23.github.io/Portfolio/"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br>
+---
+
+## 🕸️ Neural Network (Skill Domains)
+
+| **Layer** | **Technologies & Frameworks** |
+| :--- | :--- |
+| **Logic Shell** | <img src="https://skillicons.dev/icons?i=java,cpp,python,dart,cs&theme=dark" /> |
+| **Interface Deck** | <img src="https://skillicons.dev/icons?i=html,css,js,flutter,dotnet,nodejs" /> |
+| **Infrastructure** | <img src="https://skillicons.dev/icons?i=firebase,github,vscode,androidstudio,blender" /> |
+| **Environment** | <img src="https://skillicons.dev/icons?i=kali,linux,raspberrypi,windows,ubuntu" /> |
+
+---
+
+## 📊 Intelligence Reports
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=100rabx23&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 120%; display: inline-block;" />
+  <table border="0">
+    <tr>
+      <td><img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=100rabx23&theme=radical" /></td>
+      <td><img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=100rabx23&theme=radical" /></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=100rabx23&theme=radical&hide_border=true&stroke=E21717" />
+      </td>
+    </tr>
+  </table>
 </div>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<div></div>
 
+---
 
-<div align="center"> 
-<h1> 
-<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=Keep+Learning+and+Exploring!;Let's+code+together!" alt="Typing SVG"/> 
-</h1>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="left"><strong>VISITORS:</strong></td>
+      <td align="right"><strong>NETWORK_STATUS:</strong> 🟢 Online</td>
+    </tr>
+  </table>
+  <img src="https://komarev.com/ghpvc/?username=100rabx23&label=STARK+INDUSTRIES+ENCRYPTION&color=e21717&style=for-the-badge" />
+  <br />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+  <p align="center"><em>"With great power, comes great clean code."</em></p>
 </div>
