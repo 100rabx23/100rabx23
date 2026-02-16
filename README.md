@@ -18,7 +18,7 @@
         <h3> 🛰️ System Overview </h3>
         <ul>
           <li><strong>Current Phase:</strong> Engineering Solutions</li>
-          <li><strong>Deployment:</strong> Mumbai, India</li>
+          <li><strong>Deployment:</strong> Ahmedabad, India</li>
           <li><strong>Status:</strong> Available for Collaboration</li>
           <li><strong>Primary Focus:</strong> Scalable Web & App Architectures</li>
         </ul>
