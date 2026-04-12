@@ -6,7 +6,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E21717&center=true&vCenter=true&width=500&lines=CORE+SYSTEM+ENGINEER;FULL-STACK+DEVELOPER;CYBER+SECURITY+ENTHUSIAST;CROSS-PLATFORM+ARCHITECT" alt="Typing SVG" />
   </p>
 </div>
-....
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="1920" />  
 
 <div align="center">
