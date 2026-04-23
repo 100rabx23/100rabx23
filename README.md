@@ -1,7 +1,6 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=120&section=header&text=SAURABH%20SINGH&fontSize=60&fontColor=E21717&animation=twinkling" />
-  ******
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E21717&center=true&vCenter=true&width=500&lines=CORE+SYSTEM+ENGINEER;FULL-STACK+DEVELOPER;CYBER+SECURITY+ENTHUSIAST;CROSS-PLATFORM+ARCHITECT" alt="Typing SVG" />
   </p>
