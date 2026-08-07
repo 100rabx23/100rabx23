@@ -46,7 +46,6 @@
 | **Infrastructure** | <img src="https://skillicons.dev/icons?i=firebase,github,vscode,androidstudio,blender" /> |
 | **Environment** | <img src="https://skillicons.dev/icons?i=kali,linux,raspberrypi,windows,ubuntu" /> |
 
----
 
 ## 📊 Intelligence Reports
 
