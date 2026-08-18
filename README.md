@@ -13,8 +13,13 @@
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <iframe src="https://media.gifdb.com/the-amazing-spiderman-2-tasm-gif-8hqety9stm9g398s.gif" width="100%" style="border-radius:10px; border: 1px solid #333;" />
-      </td>
+  <img
+    src="https://media.gifdb.com/the-amazing-spiderman-2-tasm-gif-8hqety9stm9g398s.gif"
+    width="100%"
+    style="border-radius: 10px; border: 1px solid #333;"
+    alt="The Amazing Spider-Man 2 GIF"
+  />
+</td>
       <td width="50%" align="left">
         <h3> 🛰️ System Overview </h3>
         <ul>
