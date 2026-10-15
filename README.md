@@ -60,31 +60,46 @@ I like working across the full development cycle: understanding a problem, desig
 
 ## `02 / TECHNOLOGY`
 
-<p align="center"><strong>LANGUAGES</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,dart,sql&theme=dark" alt="Java, C++, Python, JavaScript, Dart and SQL"/>
-</p>
+<table align="center">
+  <tr>
+    <th align="center">CATEGORY</th>
+    <th align="center">TECHNOLOGIES</th>
+  </tr>
+  <tr>
+    <td align="center"><strong>Languages</strong></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java,cpp,python,js,dart&theme=dark" alt="Java, C++, Python, JavaScript, Dart"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Web & Backend</strong></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,nestjs&theme=dark" alt="HTML, CSS, React, Node.js, Express, NestJS"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Mobile Development</strong></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=flutter,androidstudio,dart&theme=dark" alt="Flutter, Android Studio, Dart"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Databases & Services</strong></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=firebase,postgres,mysql,sqlite&theme=dark" alt="Firebase, PostgreSQL, MySQL, SQLite"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Tools & Platforms</strong></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,vercel&theme=dark" alt="Git, GitHub, VS Code, Visual Studio, Linux, Vercel"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center"><strong>WEB & BACKEND</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,nestjs&theme=dark" alt="HTML, CSS, React, Node.js, Express and NestJS"/>
-</p>
-
-<p align="center"><strong>MOBILE & CLOUD SERVICES</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,firebase,postgres,mysql,sqlite&theme=dark" alt="Flutter, Android Studio, Firebase, PostgreSQL, MySQL and SQLite"/>
-</p>
-
-<p align="center"><strong>DEVELOPER TOOLS & PLATFORMS</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,vercel&theme=dark" alt="Git, GitHub, VS Code, Visual Studio, Linux and Vercel"/>
-</p>
-
-<p align="center">
-  <sub>Technologies reflect tools used or explored across projects; depth of experience varies by tool.</sub>
-</p>
-
----
+  <sub>Technologies used or explored across projects; experience varies by tool.</sub>
+</p>---
 
 ## `03 / SELECTED WORK`
 
