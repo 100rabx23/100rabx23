@@ -1,178 +1,171 @@
-# Saurabh Singh
+<!--
+  SAURABH SINGH | GitHub Profile
+  Visual direction: midnight graphite + electric teal
+  Built with GitHub-compatible Markdown and HTML.
+-->
 
-**Computer Engineering Student · Software Developer · IoT & Security
-Enthusiast**
+<div align="center">
 
-Building practical software products across backend engineering, mobile
-applications, and connected systems.
+<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:00D4AA,50:00A6FB,100:7B61FF" width="100%" alt="Accent bar"/>
 
-[Portfolio](https://100rabx23.github.io/Portfolio/) ·
-[LinkedIn](https://www.linkedin.com/in/saurabh-singh-722246230/) ·
-[Email](mailto:saurabhx2004@gmail.com) ·
-[GitHub](https://github.com/100rabx23)
+<br/>
 
-------------------------------------------------------------------------
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B1220,55:102A43,100:00A6A6&text=SAURABH%20SINGH&fontColor=F8FAFC&fontSize=52&fontAlignY=39&desc=SOFTWARE%20DEVELOPMENT%20%7C%20BACKEND%20%7C%20IOT&descColor=9FE7E1&descSize=16&descAlignY=61&animation=fadeIn" width="100%" alt="Saurabh Singh profile banner"/>
 
-## About Me
+<br/>
 
-I'm Saurabh Singh, a Computer Engineering student interested in
-designing and building reliable, practical software systems. My
-experience spans Android development, backend APIs, web applications,
-databases, and IoT-based projects.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=55D6BE&center=true&vCenter=true&width=760&height=45&lines=Building+useful+software%2C+one+iteration+at+a+time;Backend+APIs+%7C+Mobile+Apps+%7C+Connected+Systems;From+prototype+to+deployment" alt="Rotating profile tagline"/>
 
-I enjoy taking projects from an initial idea to a working
-implementation, understanding the engineering decisions behind them, and
-improving them through testing and iteration.
+<br/><br/>
 
--   **Software development:** Building web applications, mobile apps,
-    and backend services.
--   **Systems & integration:** Working with APIs, databases,
-    authentication, and cloud deployment.
--   **IoT & automation:** Exploring connected devices, computer vision,
-    and intelligent automation.
--   **Security:** Learning secure application design, networking, and
-    cybersecurity fundamentals.
--   **Engineering mindset:** Prioritizing maintainability, practical
-    functionality, and thoughtful problem-solving.
+<a href="https://100rabx23.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-0B1220?style=for-the-badge&logo=googlechrome&logoColor=55D6BE" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/saurabh-singh-722246230/"><img src="https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=55D6BE" alt="LinkedIn"/></a>
+<a href="mailto:saurabhx2004@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B1220?style=for-the-badge&logo=gmail&logoColor=55D6BE" alt="Email"/></a>
+<a href="https://github.com/100rabx23"><img src="https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=55D6BE" alt="GitHub"/></a>
 
-## Technical Skills
+<br/><br/>
 
-**Languages**
+<img src="https://komarev.com/ghpvc/?username=100rabx23&label=PROFILE%20VIEWS&color=0D9488&style=flat-square" alt="Profile views"/>
 
-Java · C++ · Python · JavaScript · Dart · SQL
+</div>
 
-**Application Development**
+---
 
-Android · Flutter · React · HTML · CSS · Node.js · Express.js · NestJS
+## `01 / PROFILE`
 
-**Databases & Backend Services**
+I'm **Saurabh Singh**, a Computer Engineering student and software developer interested in building practical applications across backend engineering, mobile development, and IoT.
 
-PostgreSQL · MySQL · SQLite · Firebase Authentication · Firebase
-Realtime Database · REST APIs
+I like working across the full development cycle: understanding a problem, designing the implementation, integrating APIs and data, debugging edge cases, and getting a working product deployed. I'm also exploring application security and cloud infrastructure as part of becoming a stronger engineer.
 
-**Tools & Platforms**
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Currently interested in</strong><br/><br/>
+      Backend engineering and REST APIs<br/>
+      Full-stack and mobile applications<br/>
+      IoT, robotics, and automation<br/>
+      Secure application design
+    </td>
+    <td width="50%" valign="top">
+      <strong>How I like to work</strong><br/><br/>
+      Build practical, testable features<br/>
+      Understand systems beyond the UI<br/>
+      Learn through implementation<br/>
+      Iterate toward reliability
+    </td>
+  </tr>
+</table>
 
-Git · GitHub · Android Studio · VS Code · Visual Studio · Vercel · Neon
+---
 
-**Areas of Interest**
+## `02 / TECHNOLOGY`
 
-Backend Engineering · API Design · Mobile Development · IoT · Automation
-· Application Security · Cloud Infrastructure
+<p align="center"><strong>LANGUAGES</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,dart,sql&theme=dark" alt="Java, C++, Python, JavaScript, Dart and SQL"/>
+</p>
 
-*Technologies listed reflect tools and languages I have worked with or
-explored across projects; proficiency varies by technology.*
+<p align="center"><strong>WEB & BACKEND</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,nestjs&theme=dark" alt="HTML, CSS, React, Node.js, Express and NestJS"/>
+</p>
 
-------------------------------------------------------------------------
+<p align="center"><strong>MOBILE & CLOUD SERVICES</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,firebase,postgres,mysql,sqlite&theme=dark" alt="Flutter, Android Studio, Firebase, PostgreSQL, MySQL and SQLite"/>
+</p>
 
-## Featured Projects
+<p align="center"><strong>DEVELOPER TOOLS & PLATFORMS</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,vercel&theme=dark" alt="Git, GitHub, VS Code, Visual Studio, Linux and Vercel"/>
+</p>
 
-### NovaDocs --- Online Document Editor
+<p align="center">
+  <sub>Technologies reflect tools used or explored across projects; depth of experience varies by tool.</sub>
+</p>
 
-A document-focused application designed to make creating, editing, and
-exporting documents more accessible through a modern web interface.
+---
 
--   **Focus:** Document workflows, authentication, and full-stack
-    development.
--   **Frontend:** React.
--   **Backend:** NestJS.
--   **Database:** PostgreSQL with Neon.
--   **Deployment:** Vercel.
--   **Engineering challenges:** Document editing, authentication
-    integration, serverless deployment, and backend reliability.
+## `03 / SELECTED WORK`
 
-[Explore my repositories](https://github.com/100rabx23?tab=repositories)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>NovaDocs</h3>
+      <p>A document-focused web application concept centered on creating, editing, and exporting documents through a modern workflow.</p>
+      <p><strong>Stack</strong><br/>React · NestJS · PostgreSQL · Neon · Vercel</p>
+      <p><a href="https://github.com/100rabx23?tab=repositories">Explore repositories ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>ABHAR</h3>
+      <p>An AI and IoT home-automation robot project exploring obstacle avoidance, camera integration, face detection, and speed control.</p>
+      <p><strong>Focus</strong><br/>IoT · Robotics · Computer Vision · Automation</p>
+      <p>Received a ₹60,000 SSIP student innovation grant.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>SOVI</h3>
+      <p>An experimental acoustic communication prototype investigating audio-based data transfer, decoding, signal extraction, and noise-related reliability challenges.</p>
+      <p><strong>Focus</strong><br/>Audio Processing · Signal Handling · Communication Systems</p>
+      <p><a href="https://github.com/100rabx23?tab=repositories">Explore repositories ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Mobile & API Projects</h3>
+      <p>Android and Flutter development, Firebase-backed applications, file-processing workflows, and integrations with external APIs.</p>
+      <p><strong>Focus</strong><br/>Mobile UX · REST APIs · Authentication · Data Integration</p>
+      <p><a href="https://github.com/100rabx23?tab=repositories">Browse all repositories ↗</a></p>
+    </td>
+  </tr>
+</table>
 
-### ABHAR --- AI-Based Home Automation Robot
+---
 
-An IoT and AI project focused on intelligent home automation and robotic
-interaction.
+## `04 / EXPERIENCE & HIGHLIGHTS`
 
--   Developed as a student innovation project.
--   Explored obstacle avoidance, real-time camera integration, face
-    detection, and speed control.
--   Received a ₹60,000 grant through the Student Startup and Innovation
-    Policy (SSIP).
--   Worked on project development, technical planning, and review
-    presentations.
+- **9.97 CGPA** — Diploma in Computer Engineering.
+- **Student innovation** — Led ABHAR, an AI and IoT home-automation project supported by a ₹60,000 SSIP grant.
+- **Hackathon** — Reached the top 10 among 60+ teams at DA-IICT Gandhinagar's Tic-Tech-Toe'24 with Team Howlers and the WeShv project.
+- **Android development** — Completed two internships at Rise Up Infotech, Surat.
+- **Developer community** — Served as an Android app development lead with the GDSC community.
+- **Recognition** — Best Student of the Year 2023–24.
+- **Cloud learning** — AWS Academy Graduate badge, Introduction to Cloud — Semester 1.
 
-**Focus areas:** IoT · Robotics · Computer Vision · Automation
+---
 
-### SOVI --- Acoustic Communication Prototype
+## `05 / GITHUB OVERVIEW`
 
-An experimental project exploring the transfer of information through
-acoustic signals between nearby devices.
+<div align="center">
 
--   Investigates audio encoding and decoding workflows.
--   Explores signal extraction, noise handling, and microphone-related
-    limitations.
--   Focuses on improving practical transfer speed and decoding
-    reliability.
--   Examines the engineering trade-offs involved in acoustic data
-    transmission.
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=100rabx23&show_icons=true&hide_border=true&bg_color=0B1220&title_color=55D6BE&icon_color=55D6BE&text_color=D7E2EA&rank_icon=github" alt="GitHub statistics"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=100rabx23&layout=compact&hide_border=true&bg_color=0B1220&title_color=55D6BE&text_color=D7E2EA&langs_count=8" alt="Most used languages"/>
 
-**Focus areas:** Digital Signal Processing · Audio Processing ·
-Communication Systems
+<br/><br/>
 
-*This is an experimental prototype, not a claim of production-ready
-secure communication.*
+<img src="https://streak-stats.demolab.com?user=100rabx23&hide_border=true&background=0B1220&ring=00A6A6&fire=55D6BE&currStreakLabel=55D6BE&sideLabels=D7E2EA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8294A5" alt="GitHub contribution streak"/>
 
-### Mobile & Backend Applications
+<br/><br/>
 
-I have also worked on Android applications, Flutter-based utilities, API
-integrations, and database-backed web applications.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=100rabx23&bg_color=0B1220&color=D7E2EA&line=00A6A6&point=55D6BE&area=true&hide_border=true&custom_title=Contribution%20Activity" width="96%" alt="Contribution activity graph"/>
 
-My development experience includes Firebase-powered applications,
-file-processing workflows, REST API integration, and deploying
-full-stack applications.
+</div>
 
-[Browse all repositories
-→](https://github.com/100rabx23?tab=repositories)
+---
 
-------------------------------------------------------------------------
+## `06 / CONNECT`
 
-## Experience & Achievements
+I'm open to connecting with developers, collaborating on meaningful projects, and learning from people building useful software.
 
--   Completed a Diploma in Computer Engineering with a **9.97 CGPA**.
--   Led development activities for an Android application through the
-    Google Developer Student Clubs (GDSC) community.
--   Completed two Android development internships at Rise Up Infotech,
-    Surat.
--   Led the ABHAR innovation project, which received an SSIP grant of
-    ₹60,000.
--   Ranked among the top 10 teams at DA-IICT Gandhinagar's
-    Tic-Tech-Toe'24 hackathon with Team Howlers and the WeShv project.
--   Recognized as Best Student of the Year 2023--24.
--   Earned the AWS Academy Graduate badge for Introduction to Cloud ---
-    Semester 1.
+<p align="center">
+  <a href="https://100rabx23.github.io/Portfolio/"><img src="https://img.shields.io/badge/Explore%20Portfolio-0D9488?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/saurabh-singh-722246230/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0D9488?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:saurabhx2004@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-0D9488?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-------------------------------------------------------------------------
+<div align="center">
 
-## GitHub Activity
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00A6A6,50:102A43,100:0B1220" width="100%" alt="Footer banner"/>
 
-::: {align="center"}
-`<img width="49%" src="https://github-readme-stats.vercel.app/api?username=100rabx23&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E05A67&icon_color=E05A67&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>`{=html}
+<sub>Build with intent. Learn continuously. Ship responsibly.</sub>
 
-`<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=100rabx23&layout=compact&hide_border=true&bg_color=0D1117&title_color=E05A67&text_color=C9D1D9&langs_count=8" alt="Most used programming languages"/>`{=html}
-:::
-
-------------------------------------------------------------------------
-
-## Let's Connect
-
-I'm interested in software engineering opportunities, collaborative
-projects, and conversations about backend systems, application
-development, IoT, and security.
-
--   **Portfolio:**
-    [100rabx23.github.io/Portfolio](https://100rabx23.github.io/Portfolio/)
--   **LinkedIn:** [Connect with
-    me](https://www.linkedin.com/in/saurabh-singh-722246230/)
--   **Email:** <saurabhx2004@gmail.com>
--   **GitHub:** [@100rabx23](https://github.com/100rabx23)
-
-------------------------------------------------------------------------
-
-::: {align="center"}
-*Building thoughtfully. Learning continuously. Shipping useful
-software.*
-:::
+</div>
