@@ -1,6 +1,4 @@
 
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:120000,100:E21717&text=SAURABH%20SINGH&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=🕷️%20SYSTEMS%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descColor=FF3333&descSize=17&descAlignY=63&animation=twinkling" width="100%"/>
@@ -15,6 +13,10 @@
 <img src="https://img.shields.io/badge/LINKEDIN-E21717?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+
+<p>
+
+</p>
 <a href="mailto:saurabhx2004@gmail.com">
 <img src="https://img.shields.io/badge/GMAIL-111111?style=for-the-badge&logo=gmail&logoColor=E21717"/>
 </a>
