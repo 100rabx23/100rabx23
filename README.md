@@ -99,7 +99,7 @@ I like working across the full development cycle: understanding a problem, desig
 
 <p align="center">
   <sub>Technologies used or explored across projects; experience varies by tool.</sub>
-</p>---
+</p>
 
 ## `SELECTED WORK`
 
@@ -138,7 +138,6 @@ I like working across the full development cycle: understanding a problem, desig
 
 ## `EXPERIENCE & HIGHLIGHTS`
 
-- **9.97 CGPA** — Diploma in Computer Engineering.
 - **Student innovation** — Led ABHAR, an AI and IoT home-automation project supported by a ₹60,000 SSIP grant.
 - **Hackathon** — Reached the top 10 among 60+ teams at DA-IICT Gandhinagar's Tic-Tech-Toe'24 with Team Howlers and the WeShv project.
 - **Android development** — Completed two internships at Rise Up Infotech, Surat.
