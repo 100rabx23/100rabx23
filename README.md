@@ -31,7 +31,7 @@
 
 ---
 
-## `01 / PROFILE`
+## `PROFILE`
 
 I'm **Saurabh Singh**, a Computer Engineering student and software developer interested in building practical applications across backend engineering, mobile development, and IoT.
 
@@ -58,7 +58,7 @@ I like working across the full development cycle: understanding a problem, desig
 
 ---
 
-## `02 / TECHNOLOGY`
+## `TECHNOLOGY`
 
 <table align="center">
   <tr>
@@ -101,7 +101,7 @@ I like working across the full development cycle: understanding a problem, desig
   <sub>Technologies used or explored across projects; experience varies by tool.</sub>
 </p>---
 
-## `03 / SELECTED WORK`
+## `SELECTED WORK`
 
 <table>
   <tr>
@@ -136,7 +136,7 @@ I like working across the full development cycle: understanding a problem, desig
 
 ---
 
-## `04 / EXPERIENCE & HIGHLIGHTS`
+## `EXPERIENCE & HIGHLIGHTS`
 
 - **9.97 CGPA** — Diploma in Computer Engineering.
 - **Student innovation** — Led ABHAR, an AI and IoT home-automation project supported by a ₹60,000 SSIP grant.
@@ -148,7 +148,7 @@ I like working across the full development cycle: understanding a problem, desig
 
 ---
 
-## `05 / GITHUB OVERVIEW`
+## `GITHUB OVERVIEW`
 
 <div align="center">
 
@@ -167,7 +167,7 @@ I like working across the full development cycle: understanding a problem, desig
 
 ---
 
-## `06 / CONNECT`
+## `CONNECT`
 
 I'm open to connecting with developers, collaborating on meaningful projects, and learning from people building useful software.
 
