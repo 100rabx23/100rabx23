@@ -184,3 +184,5 @@ I'm open to connecting with developers, collaborating on meaningful projects, an
 <sub>Build with intent. Learn continuously. Ship responsibly.</sub>
 
 </div>
+
+...
