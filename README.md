@@ -185,4 +185,3 @@ I'm open to connecting with developers, collaborating on meaningful projects, an
 
 </div>
 
-...
