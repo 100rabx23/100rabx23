@@ -38,7 +38,7 @@ I'm **Saurabh Singh**, a Computer Engineering student and software developer int
 
 I like working across the full development cycle: understanding a problem, designing the implementation, integrating APIs and data, debugging edge cases, and getting a working product deployed. I'm also exploring application security and cloud infrastructure as part of becoming a stronger engineer.
 <center>
-<table>
+<table aglin="center">
   <tr>
     <td width="50%" valign="top">
       <strong>Currently interested in</strong><br/><br/>
